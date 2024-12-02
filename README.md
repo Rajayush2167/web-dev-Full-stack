@@ -22,17 +22,7 @@ Develop interactive, responsive frontends with **React**, **HTML**, and **CSS**.
 ### Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
 
 
-
----
-
-## 🌱 
-- Advanced TypeScript
-- WebSocket-based real-time apps
-- GraphQL API development
-
----
 
 
