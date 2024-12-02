@@ -1,5 +1,8 @@
 # 💻 Full-Stack Developer(Roadmap)
 
+Develop interactive, responsive frontends with **React**, **HTML**, and **CSS**.
+- Build efficient RESTful APIs with **Express.js** and **Node.js**.
+- Design and manage databases using **MongoDB**.
 
 
 ---
